@@ -16,7 +16,6 @@
 // Definitions: https://github.com/DefinitelyTyped/DefinitelyTyped
 // TypeScript Version: 3.1
 
-/// <reference types="cheerio" />
 import {
     ReactElement,
     Component,
